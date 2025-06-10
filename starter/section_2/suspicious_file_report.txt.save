@@ -1,0 +1,3 @@
+strings /home/ubuntu/Downloads/moni.lod | grep -Ei "http|https"
+strings /home/ubuntu/Downloads/wipes | grep -Ei "http|https"
+
